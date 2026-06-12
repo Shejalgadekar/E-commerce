@@ -1,0 +1,27 @@
+ # E-commerce Project
+
+## Overview
+An E-commerce application with AI-powered chatbot  project
+
+## Technology used
+- Java
+- Spring Boot
+- MySQL
+- OpenAI API
+- GitHub
+
+## Features
+- Product Catalog
+- Shopping Cart
+- User Login
+- AI Chatbot
+- Order Management
+
+ ## How to run 
+
+ 1. Clone the repositary.
+ 2. Open in VS code.
+ 3. Run the application
+
+## Author
+Shejal Gadekar
